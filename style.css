@@ -1,0 +1,15 @@
+ #btn_tc_active{
+   display: inline-flex;
+    justify-content: center; /* center the content horizontally */
+    align-items: center; /* center the content vertically */
+   
+    border-color: transparent;
+    height: 35px;
+    padding: 10px;
+    border-bottom:solid gray;
+     border-right: solid gray;
+    
+     border-radius: 5px;
+
+
+}
